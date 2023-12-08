@@ -1,0 +1,11 @@
+.link {
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+
+  color: #87868c;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

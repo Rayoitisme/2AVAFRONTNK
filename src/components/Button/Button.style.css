@@ -1,0 +1,16 @@
+.button {
+  width: fit-content;
+
+  outline: none;
+  border: none;
+  padding: 0.5rem 1rem;
+
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  background: #083769;
+
+  cursor: pointer;
+}
